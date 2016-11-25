@@ -9,7 +9,7 @@ git clone https://github.com/Chirawat/smartclass-thesis
 ```
 Database name: u813884989_sm
 ```
-and then use sql script in 'u813884989_sm.sql' to create tables and sample data
+and then use sql script in *'u813884989_sm.sql'* to create tables and sample data
 
 - run by these user information
 ```
@@ -24,4 +24,4 @@ username: student
 password: student
 ```
 Tested on 2016.09.30
-DEMO(http://smartclass.esy.es)
+[DEMO](http://smartclass.esy.es)
