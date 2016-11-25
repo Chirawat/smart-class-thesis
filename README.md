@@ -24,3 +24,4 @@ username: student
 password: student
 ```
 Tested on 2016.09.30
+DEMO(http://smartclass.esy.es)
